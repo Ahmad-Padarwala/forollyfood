@@ -1,0 +1,28 @@
+.offcanvas {
+    width: 17% !important;
+}
+
+.offcanvas-backdrop {
+    display: none !important;
+}
+
+.dash-link {
+    color: #fff !important;
+    font-weight: 100;
+}
+
+.dash-link:hover {
+    color: #cac6c6;
+}
+
+.offcanvas-body .active {
+    color: #cac6c6 !important;
+}
+
+.log-btn {
+    margin: 230px 0px 0px 12px;
+}
+
+.log-btn .log-btn-main {
+    color: white !important;
+}
